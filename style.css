@@ -1,0 +1,43 @@
+* {
+    background-color: ;
+}
+
+main {
+    width: 1024px;
+    height: 848px;
+    padding-left: -2px;
+}
+
+article {
+    width: 1024px;
+    height: 816px;
+    padding-top: 32px;
+}
+
+.smartphone {
+    width: 380px;
+    height: 582px;
+    padding-top: 95px;
+    padding-left: 131px;
+}
+
+.smartphone img {
+    width: 360px;
+    height: 539px;
+    padding-top: 8px;
+    padding-left: 7px;
+}
+
+.instagram {
+    width: 350px;
+    height: 772px;
+    padding-top: 12px;
+    padding-left: 544px;
+}
+
+.instagram .login {
+    width: 350px;
+    height: 399.98px;
+    border: 1px red;
+    border-radius: 5%;    
+}
